@@ -1,3 +1,3 @@
 My Script 
 Meizu Hub
-You can obf it. 
+You can deobf it. 
